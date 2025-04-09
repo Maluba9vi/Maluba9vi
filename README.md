@@ -8,9 +8,19 @@
 
 ---
 
+## 👩🏽‍💻 About Me
+
+I'm a systems-driven developer with 5+ years of experience designing, testing, and optimizing applications and data systems. From enhancing mobile health platforms to creating intuitive web dashboards, I bring clarity and efficiency to every project.
+
+- 💼 Previously at **Grassroot Soccer** and **Afriseed**
+- 📊 Built data tools used across **5+ countries** in **English & Portuguese-speaking teams**
+- 🔐 Experience with **data protection**, **firewalls**, **RBAC**, and **health info systems**
+
+---
+
 ## 🔧 Tech Stack
 
-- **Languages**: JavaScript, Python, SQL, HTML, CSS
+- **Languages**: JavaScript, Java, Python, SQL, HTML, CSS
 - **Frameworks/Tools**: Salesforce, Commcare, OpenFn, Node.js
 - **Data & Analytics**: Power BI, Tableau, Data Cleaning, QA
 - **Other Skills**: Agile Methodologies, Technical Documentation, System Testing
